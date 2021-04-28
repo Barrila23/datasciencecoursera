@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+author: "Luke B"
+date: "4/27/2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown
+
+Here is the [link](https://github.com/Barrila23/datasciencecoursera) to my *Coursera* repo. **Pretty neat** !
+
